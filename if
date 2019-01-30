@@ -1,0 +1,6 @@
+x=input("enter the no")
+x=int(x)
+if(x==5):
+    print("the no is valid")
+else:
+    print("the no is not valid")
