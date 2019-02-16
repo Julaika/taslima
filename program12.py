@@ -9,3 +9,8 @@ if number > 1:
 
 else:
     print("no")
+
+
+
+
+
